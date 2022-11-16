@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/jerome-jacob/static/css/main.d5471d7a.css",
+    "main.js": "/jerome-jacob/static/js/main.b90c9c22.js",
+    "static/js/787.d9923372.chunk.js": "/jerome-jacob/static/js/787.d9923372.chunk.js",
+    "static/media/Photo2.jpg": "/jerome-jacob/static/media/Photo2.8540fc40322ff3f37910.jpg",
+    "static/media/Photo1.jpg": "/jerome-jacob/static/media/Photo1.b498f26a5419ee78bcf9.jpg",
+    "index.html": "/jerome-jacob/index.html",
+    "main.d5471d7a.css.map": "/jerome-jacob/static/css/main.d5471d7a.css.map",
+    "main.b90c9c22.js.map": "/jerome-jacob/static/js/main.b90c9c22.js.map",
+    "787.d9923372.chunk.js.map": "/jerome-jacob/static/js/787.d9923372.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5471d7a.css",
+    "static/js/main.b90c9c22.js"
+  ]
+}
