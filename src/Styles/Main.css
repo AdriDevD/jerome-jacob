@@ -1,0 +1,14 @@
+.JJ-Photos {
+    list-style-type: none;
+	padding: 32px;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	
+}
+
+.JJ-Main {
+	display: flex;
+	justify-content: center;
+	background-color: rgb(254,255,234);
+}

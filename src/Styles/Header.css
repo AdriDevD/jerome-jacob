@@ -1,0 +1,32 @@
+.JJ-title {
+    display: flex;
+    justify-content: center;
+    font-family: 'Satisfy', cursive;
+    font-size: 8.5em; 
+    color: rgb(101,101,101); 
+}
+
+.JJ-header {
+    display: flex;
+    justify-content: center;
+    background-color: rgb(254,255,234);
+}
+
+.JJ-connexion {
+    padding: 10px;
+    display: flex;
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    color: rgb(101,101,101);
+    background-color:rgba(205, 206, 189, 0.445);
+    border-radius: 10px;
+    border-width: 2px;
+    border-style: none;
+    font-family: 'Satisfy', cursive;
+    font-size: 1.5em;
+}
+
+.JJ-connexion:hover {
+    cursor: pointer;
+}
