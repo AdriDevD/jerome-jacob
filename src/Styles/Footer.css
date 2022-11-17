@@ -1,0 +1,46 @@
+.JJ-Footer {
+    display: flex;
+	justify-content: center;
+	background-color: rgb(254,255,234);
+}
+
+.JJ-Reseaux {
+    padding: 0px;
+    list-style: none;
+}
+
+.JJ-Res-List {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.JJ-Res-Icon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 25px;
+    height: 25px;
+    opacity: 0.8;
+    padding: 10px;
+}
+
+.JJ-Res-Icon:hover {
+    cursor: pointer;
+}
+
+/*.JJ-Lien {
+    text-decoration: none;
+    color: rgb(101,101,101);
+}*/
+
+.JJ-Contact {
+    margin-bottom: 20px;
+    font-size: 1.5rem;
+    font-family: 'Satisfy', cursive;
+    display: flex;
+    justify-content: center;
+    text-decoration: double;
+    color: black;
+}
