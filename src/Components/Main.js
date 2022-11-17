@@ -1,3 +1,4 @@
+import LogoPlus from "../Logos/LogoPlus.png";
 import { PhotosList } from "../Datas/PhotosList";
 import PhotoItem from "./PhotoItem";
 import "../Styles/Main.css";
@@ -17,6 +18,10 @@ function Main() {
             />
           </div>
         ))}
+        <div>
+          <img className="JJ-Add-Photos" src={LogoPlus} alt="+"></img>
+          <p>Ajouter une Photo</p>
+        </div>
       </ul>
     </div>
   );

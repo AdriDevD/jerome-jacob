@@ -8,7 +8,21 @@
 }
 
 .JJ-Main {
+	padding-top: 40px;
+	padding-bottom: 80px;
 	display: flex;
 	justify-content: center;
 	background-color: rgb(254,255,234);
+}
+
+.JJ-Add-Photos {
+	height: 300px;
+	width: 300px;
+	display: flex;
+	border-radius: 20px;
+	object-fit: cover;
+	opacity: 0.8;
+	border-color: rgba(0, 0, 0, 0.8);
+	border-width: 10px;
+	border: 10px;
 }

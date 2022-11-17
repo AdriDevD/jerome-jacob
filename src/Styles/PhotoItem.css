@@ -26,11 +26,15 @@
 	left: 0;
 	width: 100%;
 	height: 100%;
-	scale: 0.6;
-	/*optional bg color*/
-	background: rgba(0, 0, 0, 0.747);
+		/*optional bg color*/
+	background-color: rgba(0, 0, 0, 0.747);
+	/*background-position: absolute;*/
 	/*the following isn't necessary but will help center everything once we add buttons*/
 	display: flex;
 	align-items: center;
 	justify-content: space-between;
   }
+
+#lightbox-img {
+	scale: 0.6;
+}
